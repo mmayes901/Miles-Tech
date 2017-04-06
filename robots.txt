@@ -1,0 +1,16 @@
+Sitemap: http://www.westchesterfamilycare.com/sitemap.xml
+
+User-agent: *
+
+Disallow: /staticpages/care-coordination.aspx
+Disallow: /staticpages/referrals.aspx
+Disallow: /staticpages/alzheimers-care-guide.aspx
+Disallow: /staticpages/elderly-companion.aspx
+Disallow: /staticpages/free-needs-assessment.aspx
+Disallow: /staticpages/free-check-up-services.aspx
+Disallow: /staticpages/testimonials.aspx
+Disallow: /staticpages/safety-and-planning.aspx
+Disallow: /staticpages/parkinsons-care-guide.aspx
+Disallow: /staticpages/medical-alert.aspx
+Disallow: /staticpages/live-in-care.aspx
+Disallow: /staticpages/in-home-senior-care.aspx

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="." title="Home Page"  description="Home Page" keywords="">
+      <siteMapNode url="/Forms/ContactUs.aspx" title="Contact Us"  description="Contact Us" />
+        <siteMapNode url="/Forms/ThankyouContactUs.aspx" title="Thank you"  description="Thank you" />
+		
+		<siteMapNode url="/StaticPages/our-story.aspx" title="WFC Our Story"  description="A family who has dealt with the challenges and restrictions that come with aging, illness and disabilities." />
+	  	<siteMapNode url="/StaticPages/care-coordination.aspx" title="Care Plans"  description="Westchester Family Care plan options" />
+		<siteMapNode url="/StaticPages/testimonials.aspx" title="WFC Testimonials"  description="Westchester Family Care client testimonials" />
+		<siteMapNode url="/StaticPages/faqs.aspx" title="WFC Frequently Asked Questions"  description="Westchester Family Care frequently asked questions" />
+		<siteMapNode url="/StaticPages/services.aspx" title="Our Services"  description="Some of the services that your customized home care plan can include" />
+		<siteMapNode url="/StaticPages/careers.aspx" title="Caregiver Careers in NY | Westchester Family Care"  description="We have career opportunities for both experienced caregivers and motivated individuals seeking a new and rewarding career. Apply today." />
+		<siteMapNode url="/StaticPages/referrals.aspx" title="WFC Referrals"  description="Westchester Family Care current customer referrals." />
+		<siteMapNode url="/StaticPages/consider-home-care.aspx" title="Considering Home Care"  description="Before you can determine how to select the right care provider, you must first decide when it’s time to introduce care. We’ve provided the following list of questions to help you make this important decision." />
+		<siteMapNode url="/StaticPages/custom-care.aspx" title="Custom Care"  description="At Westchester Family Care we know that your family is special and has special needs. We will work with you to create a customized plan that meets those needs." />
+		<siteMapNode url="/StaticPages/helpful-links.aspx" title="WFC Help Links"  description="Beneficial websites and resources for families." />'
+		<siteMapNode url="/StaticPages/home-care.aspx" title="WFC Home Care"  description="There are many reasons and different times of one’s life when a person may need assistance with the daily activities of living." />
+		<siteMapNode url="/StaticPages/our-clients.aspx" title="Our Services | Westchester Family Care"  description="We offer customized home care plans to meet your family's needs that can include the following services. Read more." />
+		<siteMapNode url="/StaticPages/sitemap.aspx" title="WFC Sitemap"  description="Westchester Family Care sitemap and navigation. " />
+		<siteMapNode url="/StaticPages/video-lp.aspx" title="The Family Room"  description="WFC offers our clients access to the Family Room which provides billing and care information. Watch the video for more information about our WFC portal." />
+		<siteMapNode url="/StaticPages/wfc.aspx" title="Why Choose Westchester Family Care"  description="Because we care and because we understand. We’ve been there. We understand that every client and personal situation is different and requires an individual, customized solution." />
+		<siteMapNode url="/StaticPages/search.aspx" title="Search Results of Westchester Family Care"  description="Search all of Westchester Family Care." />
+		<siteMapNode url="/StaticPages/repository.aspx" title="Westchester Family Care Repository"  description="A collection of forms and documents pertaining to WFC." />
+		<siteMapNode url="/StaticPages/current-caregivers.aspx" title="Westchester Family Care Current Caregivers"  description="Access to human resources, schedule information and WFC repository." />
+		<siteMapNode url="http://westchesterfamilycare.blogspot.com/" title="Westchester Family Care Blog"  description="Read all about our tips and information on senior care with Westchester Family Care." />
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+    </siteMapNode>
+</siteMap>
